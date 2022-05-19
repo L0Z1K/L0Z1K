@@ -20,8 +20,10 @@
 <br>
 <p align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=L0Z1K">
+    <a href="https://www.kaggle.com/baekseungyun"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/baekseungyun/notebook"/></a>
+    <a href="https://www.kaggle.com/baekseungyun"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/baekseungyun/discussion"/></a>
 </p>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=L0Z1K&count_private=true&show_icons=true&theme=dracula"/></a>
-</p>
 
+</p>
